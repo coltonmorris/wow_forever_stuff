@@ -4,6 +4,7 @@
 ## Author: Colton
 ## Version: 0.1.0
 ## Dependencies: RXPGuides
+## SavedVariables: FineXPDB
 
 quest_ids.lua
 coords.lua

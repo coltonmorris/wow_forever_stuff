@@ -78,6 +78,14 @@ step
 -- .use 6948
 -- -- 110xp from sarkoth 170xp from 
 
+step 
+.goto Durotar,42.65, 67.48
+>>|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Zor'la|r
+.train 2372 >>train |T136065:0|t[Herbalism]
+.skill herbalism,1,1
+.target Zor'la
+
+
 step
 .goto Durotar,42.29,68.39,12,0
 .goto Durotar,42.06,68.32
@@ -127,18 +135,10 @@ step
 +|cRXP_WARN_Mine Copper Veins until you get 15-ish |r |T135232:0|t[Rough Stone] |cRXP_WARN_and keep a|r |T135248:0|t[Rough Sharpening Stone] |cRXP_WARN_active on your main hand weapon|r 
 
 
-step 
-.goto Durotar,42.65, 67.48
->>|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Zor'la|r
-.train 2372 >>train |T136065:0|t[Herbalism]
-.skill herbalism,1,1
-.target Zor'la
-
 step
 #completewith vot
 >> get to level 13 |T136065:0|t[Herbalism] before leaving valley of trials 
 .skill herbalism,13,1
-
 
 
 -- step

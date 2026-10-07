@@ -190,6 +190,9 @@ frame:SetSize(
     165
 )
 
+
+frame:SetFrameStrata("LOW")
+frame:SetFrameLevel(1)
 frame:SetClampedToScreen(true)
 frame:SetMovable(true)
 frame:EnableMouse(true)
