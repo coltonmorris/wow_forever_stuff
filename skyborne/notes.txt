@@ -1,0 +1,99 @@
+skyborne critters:
+        hoarder
+
+
+lvl 6 xp step for after turning in constable quest before training lvl 6
+only do grandskyseer and mention to train if you are level 10? after grand adventure
+mention how to get to org
+add flight path step after picking up lost satchel, testing an enemy's strength, the barrens oasis... can set hearthstone to thunderbluff, and then can change from there. im assuming after we do durotar we go back to razor hill depending on the AGM spawn
+do only enough mages to use racial and then use again on way back to finish them off
+        maybe remove the buff during the wardrobe skip to be able to skip it
+        need to be almost done with all quests before doing the second part of that wardrobe stuff
+        ranged weapon check
+        should we consider speed running the cooking quest for the extra xp
+        if we arent lvl 10 by thunderbluff we cant pick up the barrens oases quest
+        alchemy just seems way better than blacksmithing
+
+add a step to sell our mining pouch and our pick axe
+damaged construct quest is free turn in
+have to stand somewhat near ayessa for grand adventure for it to count
+complete bugged before climbing tower to turn in those quests
+
+
+valanaar quests:
+we enter at 4366 xp
+turn in camping 101:herbalism 57.90, 75.50 (west side close to gy) 270xp
+        should we do alchemy now? just buy a shit ton more empty vials?
+                -- camping 101: alchemy can also be done in brill?
+buy as many mild spices as we have small eggs
+        60.66, 72.70 nyalah brightfire
+top of tower:
+        to valanaar: 180xp
+        dliver the signet: 390xp
+        this is where we get the bugged quest, and there are different npc id's for different skyhoppers (real is 251727)
+                turn back in at top of tower for 700 xp
+grandskyseer 80xp down near our boat
+        broekn construct 600xp 59.07, 72.98 (can do while the yapping)
+        a grand adventure 90xp 
+1610xp from quests (besides bugged) [so be at 4890 into lvl 9 to avoid doing bugged right away]
+        2310xp with bugged [so be at 4190xp into lvl 9]
+
+
+death stalkers report accept if we do escort
+brill first should be first aid 97955
+brill first should be accepting hides of forsaken i dont think any prereq
+        can also accept rear guard patrol
+        can do kristof report as well
+skip undercity visit
+alchemy 101 quest should be abandoned and we can do it in brill, turns in at apothecary
+hides of the forsaken after turn in forsaken duties
+combine cutl of the damned and remnants of war with spider step
+keep hearth in valanaar so we can leave brill right away
+
+also accept maggot eye
+
+turn in first aid before dillinger
+put text on death guard steps motivate
+
+classic era:
+        at lvl 10 a lvl 5 gives 54xp with rested
+                lvl 6 gives 82
+                lvl 7 gives 108
+                lvl 8 gives 136
+                lvl 9 gives 162
+                lvl 10 gives 190
+wowf
+        at lvl 10 a lvl 5 gives 40 xp with rested
+                lvl 6 gives 58
+                lvl 7 gives 92
+                lvl 8 gives 122 
+                lvl 9 gives 154
+                lvl 10 gives 190
+
+
+510xp before getting to shendar into lvl 5
+
+subtract the xp from the quest near boat from our xp requirement so we can skip going to that guy if we are going to thunderbluff right away.. what if we grinded the mages?
+
+zephrali knife  277108, falfaan halfwind 59.43, 75.74
+
+        after zepher isles, go to brill (death skipping to sepulcher, combos with a later tauren mill death skip to give us flight path from UC to tauren mill), hit 14, do hidden enemies, run to xroads, quest there until we find a group, fly to org and do the back and forth between thrall. do rfc. after RFC, turn in RFC quests in org, fly to cross roads barrens and quest to do WC prequests make sure to pick up sleeping bag quest at 46,74 (3 minute walk from camp taraujo one way). fly to TB turn in RFC quests when doing fungal spores /WC prereq. hearth, hearthstone batch, or just zeppelin to valanaar (beucase we are in TB) and quest in sepulcher (fly from tauren mill though to get some extra easy fp [without it we cant get to UC]) starting with rot hide ichor. after done, turn in RFC quests in UC, then uc->gromgol  to westfall and hearth back to (tauren mill?? death run to loch modan) TB ( becuase we hearthstone batched)  and do stonetalon mountains quests with the sleeping bag 40.6,52.4... after these we can do xroads or make way to loch modan. loch modan is best reached by either org flying to uc flying to tauren mill, or thunderbluff zep to zephras isle to southshore.
+        TODO test times
+                restore skip to loch modan spot
+                        do we spawn at tauren mill or southshore alliance spot if we KYS after ZI zeppelin
+                stonetalon -> thunderbluff: 2m26s
+                        TB -> valanaar -> 
+                                shortest path through that canyon after jumping is too full of mobs, go a bit right (40.28, 20.02). 4m30s to 6m30s
+                                        max zeppelin wait time is 5m50s, after landing in TB it takes 2m 40s to land in zephras isles
+                                                alliance zeppelin is round trip 4m50s. from ZI boat departure to wetlands is m (look at recording)
+                                                        we should probably do a restore skip because of the guards
+                                                                should just swim to wetlands alive and die in the zone so we can restore skip at the sleeping bag quest
+                                (zeppelin leaves after 30 seconds [fucked up, should be 1 min]. total round trip is 5:50ish)
+                stonetalon -> org
+                        org -> tauren mill
+                                tauren mill -> swim to death skip wetlands
+                                tauren mill -> run death skip arathi -> death skip wetlands
+                                        
+                so are we faster getting to tauren mill by taking ZI or org->uc, well its probably similar just depends where we are and where our hearth is
+                
+                15 minutes so far 

@@ -1,0 +1,18 @@
+## Interface: 16001
+## Title: Colton Stuff
+## Notes: Colton's personal WoW Forever tweaks.
+## Author: Colton
+## Version: 0.1.0
+## Dependencies: RXPGuides
+
+quest_ids.lua
+coords.lua
+tooltip_ids.lua
+auto_profession.lua
+auto_unlearn.lua
+critter_target.lua
+networth.lua
+skyborne/zephras_isle.lua
+skyborne/brill_lvl_10.lua
+troll/release_warrior_agm.lua
+FineXP/FineXP.lua
